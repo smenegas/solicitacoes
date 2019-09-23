@@ -21,6 +21,72 @@
        "sintomas": "Febre e tosse.",
        "especialidade": "Clínico Geral",
        "classificacao": 1
+    },
+    {
+       "id": 2,
+       "nome": "Otávio Ferreira Menegas",
+       "idade": 16,
+       "cartao_sus": "02234567891",
+       "cidade": "Canela",
+       "data_solicitacao": "01/09/2019",
+       "sintomas": "Dor abdominal.",
+       "especialidade": "Gastro-Enterologia",
+       "classificacao": 1
+    },
+    {
+       "id": 3,
+       "nome": "Nicole Ferreira Menegas",
+       "idade": 26,
+       "cartao_sus": "03234567891",
+       "cidade": "Canela",
+       "data_solicitacao": "25/08/2019",
+       "sintomas": "Dores abdominais vômino e diarreia.",
+       "especialidade": "Clínico Geral",
+       "classificacao": 1
+    },
+    {
+       "id": 4,
+       "nome": "Catiana Foss Benetti",
+       "idade": 40,
+       "cartao_sus": "04234567891",
+       "cidade": "Gramado",
+       "data_solicitacao": "12/09/2019",
+       "sintomas": "Fortes dores de cabeça.",
+       "especialidade": "Neurologista",
+       "classificacao": 1
+    },
+    {
+       "id": 5,
+       "nome": "Dilva Neive Rocha",
+       "idade": 40,
+       "cartao_sus": "05234567891",
+       "cidade": "Gramado",
+       "data_solicitacao": "01/09/2019",
+       "sintomas": "Dores no corpo",
+       "especialidade": "Clínico Geral",
+       "classificacao": 1
+    },
+    {
+       "id": 6,
+       "nome": "Cecila Menegas Ferraz",
+       "idade": 1,
+       "cartao_sus": "06234567891",
+       "cidade": "Canela",
+       "data_solicitacao": "12/09/2019",
+       "sintomas": "Febre e tosse.",
+       "especialidade": "Pediatra",
+       "classificacao": 1
+    },
+    {
+       "id": 7,
+       "nome": "Mauam Mor Ferraz",
+       "idade": 27,
+       "cartao_sus": "07234567891",
+       "cidade": "Canela",
+       "data_solicitacao": "10/09/2019",
+       "sintomas": "Dores no joelho.",
+       "especialidade": "Ortopedia",
+       "classificacao": 1
     }
   ]
 }
