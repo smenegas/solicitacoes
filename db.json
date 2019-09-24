@@ -88,5 +88,28 @@
        "especialidade": "Ortopedia",
        "classificacao": 1
     }
+  ],
+  "usuarios": [
+     {
+        "id": 0,
+        "nome": "Suian Boff Menegas",
+        "usuario": "smenegas",
+        "senha": "123",
+        "tipo": "adm"
+     },
+     {
+        "id": 1,
+        "nome": "Catiana Foss Benetti",
+        "usuario": "cbenetti",
+        "senha": "123",
+        "tipo": "oper"
+     },
+     {
+        "id": 2,
+        "nome": "Dilva Neive Rocha",
+        "usuario": "drocha",
+        "senha": "123",
+        "tipo": "oper"
+     }
   ]
 }
