@@ -94,21 +94,21 @@
         "id": 0,
         "nome": "Suian Boff Menegas",
         "usuario": "smenegas",
-        "senha": "123",
+        "senha": "12345678910",
         "tipo": "adm"
      },
      {
         "id": 1,
         "nome": "Catiana Foss Benetti",
         "usuario": "cbenetti",
-        "senha": "123",
+        "senha": "12345678910",
         "tipo": "oper"
      },
      {
         "id": 2,
         "nome": "Dilva Neive Rocha",
         "usuario": "drocha",
-        "senha": "123",
+        "senha": "12345678910",
         "tipo": "oper"
      }
   ]
