@@ -111,5 +111,18 @@
         "senha": "12345678910",
         "tipo": "oper"
      }
+  ],
+  "ubss":[
+    {
+      "id": 0;
+      "cnes": "2235544",
+      "nome:": "Unidade de Saúde Santa Marta",
+      "telefone": "(54) 3282-5112",
+      "endereco": "Rua 1º De Janeiro, 909",
+      "bairro": "Santa Marta",
+      "cidade": "Canela",
+      "uf": "RS",
+      "cep": "95680-000"
+    }
   ]
 }
