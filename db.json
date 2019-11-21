@@ -117,9 +117,94 @@
       "id": 0,
       "cnes": "2235544",
       "nome:": "Unidade de Saúde Santa Marta",
+      "apelido": "", 
       "telefone": "(54) 3282-5112",
       "endereco": "Rua 1º De Janeiro, 909",
       "bairro": "Santa Marta",
+      "cidade": "Canela",
+      "uf": "RS",
+      "cep": "95680-000"
+    }
+    {
+      "id": 1,
+      "cnes": "3963985",
+      "nome:": "Centro de Atenção Psicosocial",
+      "apelido": "CAPS"
+      "telefone": "(54) 3282-5149",
+      "endereco": "Rua Rui Ramos, 150",
+      "bairro": "Canelinha",
+      "cidade": "Canela",
+      "uf": "RS",
+      "cep": "95680-000"
+    }
+    {
+      "id": 2,
+      "cnes": "2235501",
+      "nome:": "Unidade Sanitária Canelinha",
+      "apelido": ""
+      "telefone": "(54) 3282-5116",
+      "endereco": "Rua Adalberto Wortmann, 20",
+      "bairro": "Canelinha",
+      "cidade": "Canela",
+      "uf": "RS",
+      "cep": "95680-000"
+    }
+    {
+      "id": 3,
+      "cnes": "2235463",
+      "nome:": "Unidade de Saúde Francisco Jaques Gil",
+      "apelido": "Unidade Central"
+      "telefone": "(54) 3282-5174",
+      "endereco": "Rua Sete de Setembro, 340",
+      "bairro": "Centro",
+      "cidade": "Canela",
+      "uf": "RS",
+      "cep": "95680-000"
+    }
+    {
+      "id": 4,
+      "cnes": "7558880",
+      "nome:": "Serviço de Atenção Especializada",
+      "apelido": "SAE - Hortênsias"
+      "telefone": "(54) 3282-5149",
+      "endereco": "Rua Sete de Setembrp, 340",
+      "bairro": "Centro",
+      "cidade": "Canela",
+      "uf": "RS",
+      "cep": "95680-000"
+    }
+    {
+      "id": 5,
+      "cnes": "2235528",
+      "nome:": "Unidade Sanitária Centro Materno Infantil",
+      "apelido": ""
+      "telefone": "(54) 3282-5118",
+      "endereco": "Rua João Pessoal, 104",
+      "bairro": "Centro",
+      "cidade": "Canela",
+      "uf": "RS",
+      "cep": "95680-000"
+    }
+    {
+      "id": 6,
+      "cnes": "2235536",
+      "nome:": "Unidade Sanitária Leodoro de Azevedo",
+      "apelido": ""
+      "telefone": "(54) 3282-5117",
+      "endereco": "Rua Tio Elias, 385",
+      "bairro": "Leodoro de Azevedo",
+      "cidade": "Canela",
+      "uf": "RS",
+      "cep": "95680-000"
+    }
+    {
+      "id": 7,
+      "cnes": "2262282",
+      "nome:": "Unidade Sanitária São Luiz",
+      "apelido": ""
+      "telefone": "(54) 3282-5115",
+      "endereco": "Rua Pedro Cezar Raymundo, 48",
+      "bairro": "São Luiz",
       "cidade": "Canela",
       "uf": "RS",
       "cep": "95680-000"
