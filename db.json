@@ -129,7 +129,7 @@
       "id": 1,
       "cnes": "3963985",
       "nome:": "Centro de Atenção Psicosocial",
-      "apelido": "CAPS"
+      "apelido": "CAPS",
       "telefone": "(54) 3282-5149",
       "endereco": "Rua Rui Ramos, 150",
       "bairro": "Canelinha",
@@ -141,7 +141,7 @@
       "id": 2,
       "cnes": "2235501",
       "nome:": "Unidade Sanitária Canelinha",
-      "apelido": ""
+      "apelido": "",
       "telefone": "(54) 3282-5116",
       "endereco": "Rua Adalberto Wortmann, 20",
       "bairro": "Canelinha",
@@ -153,7 +153,7 @@
       "id": 3,
       "cnes": "2235463",
       "nome:": "Unidade de Saúde Francisco Jaques Gil",
-      "apelido": "Unidade Central"
+      "apelido": "Unidade Central",
       "telefone": "(54) 3282-5174",
       "endereco": "Rua Sete de Setembro, 340",
       "bairro": "Centro",
@@ -165,7 +165,7 @@
       "id": 4,
       "cnes": "7558880",
       "nome:": "Serviço de Atenção Especializada",
-      "apelido": "SAE - Hortênsias"
+      "apelido": "SAE - Hortênsias",
       "telefone": "(54) 3282-5149",
       "endereco": "Rua Sete de Setembrp, 340",
       "bairro": "Centro",
@@ -177,7 +177,7 @@
       "id": 5,
       "cnes": "2235528",
       "nome:": "Unidade Sanitária Centro Materno Infantil",
-      "apelido": ""
+      "apelido": "",
       "telefone": "(54) 3282-5118",
       "endereco": "Rua João Pessoal, 104",
       "bairro": "Centro",
@@ -189,7 +189,7 @@
       "id": 6,
       "cnes": "2235536",
       "nome:": "Unidade Sanitária Leodoro de Azevedo",
-      "apelido": ""
+      "apelido": "",
       "telefone": "(54) 3282-5117",
       "endereco": "Rua Tio Elias, 385",
       "bairro": "Leodoro de Azevedo",
@@ -201,7 +201,7 @@
       "id": 7,
       "cnes": "2262282",
       "nome:": "Unidade Sanitária São Luiz",
-      "apelido": ""
+      "apelido": "",
       "telefone": "(54) 3282-5115",
       "endereco": "Rua Pedro Cezar Raymundo, 48",
       "bairro": "São Luiz",
