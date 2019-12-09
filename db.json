@@ -61,7 +61,7 @@
     {
       "id": 0,
       "paciente_id": 0,
-      "data_solicitacao": "07/09/2019",
+      "data_solicitacao": "09/12/2019",
       "sintomas": "Dores no corpo febre e tosse.",
       "especialidade": "Pneumologia",
       "classificacao": 1,
@@ -70,7 +70,7 @@
     {
        "id": 1,
        "paciente_id": 1,
-       "data_solicitacao": "06/09/2019",
+       "data_solicitacao": "08/12/2019",
        "sintomas": "Febre e tosse.",
        "especialidade": "Clínico Geral",
        "classificacao": 1,
@@ -79,7 +79,7 @@
     {
        "id": 2,
        "paciente_id": 2,
-       "data_solicitacao": "01/09/2019",
+       "data_solicitacao": "07/12/2019",
        "sintomas": "Dor abdominal.",
        "especialidade": "Gastro-Enterologia",
        "classificacao": 1,
@@ -88,7 +88,7 @@
     {
        "id": 3,
        "paciente_id": 3,
-       "data_solicitacao": "25/08/2019",
+       "data_solicitacao": "06/12/2019",
        "sintomas": "Dores abdominais vômino e diarreia.",
        "especialidade": "Clínico Geral",
        "classificacao": 1,
@@ -97,7 +97,7 @@
     {
        "id": 4,
        "paciente_id": 4,
-       "data_solicitacao": "12/09/2019",
+       "data_solicitacao": "05/012/2019",
        "sintomas": "Fortes dores de cabeça.",
        "especialidade": "Neurologista",
        "classificacao": 1,
@@ -106,7 +106,7 @@
     {
        "id": 5,
        "paciente_id": 5,
-       "data_solicitacao": "01/09/2019",
+       "data_solicitacao": "04/12/2019",
        "sintomas": "Dores no corpo",
        "especialidade": "Clínico Geral",
        "classificacao": 1,
@@ -115,7 +115,7 @@
     {
        "id": 6,
        "paciente_id": 6,
-       "data_solicitacao": "12/09/2019",
+       "data_solicitacao": "03/12/2019",
        "sintomas": "Febre e tosse.",
        "especialidade": "Pediatra",
        "classificacao": 1,
