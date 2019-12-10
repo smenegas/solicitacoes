@@ -73,7 +73,7 @@
        "data_solicitacao": "08/12/2019",
        "sintomas": "Febre e tosse.",
        "especialidade": "Clínico Geral",
-       "classificacao": 1,
+       "classificacao": 2,
        "status": "Agendada"
     },
     {
@@ -82,7 +82,7 @@
        "data_solicitacao": "07/12/2019",
        "sintomas": "Dor abdominal.",
        "especialidade": "Gastro-Enterologia",
-       "classificacao": 1,
+       "classificacao": 3,
        "status": "negada"
     },
     {
@@ -100,7 +100,7 @@
        "data_solicitacao": "05/12/2019",
        "sintomas": "Fortes dores de cabeça.",
        "especialidade": "Neurologista",
-       "classificacao": 1,
+       "classificacao": 2,
        "status": "aberta"
     },
     {
@@ -109,7 +109,7 @@
        "data_solicitacao": "04/12/2019",
        "sintomas": "Dores no corpo",
        "especialidade": "Clínico Geral",
-       "classificacao": 1,
+       "classificacao": 3,
        "status": "aberta"
     },
     {
@@ -127,7 +127,7 @@
        "data_solicitacao": "10/09/2019",
        "sintomas": "Dores no joelho.",
        "especialidade": "Ortopedia",
-       "classificacao": 1,
+       "classificacao": 2,
        "status": "aberta"
     }
   ],
