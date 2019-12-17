@@ -55,6 +55,13 @@
       "data_nasc": "07/01/1980",
       "cartao_sus": "03234567581",
       "cidade": "Canela"
+    },
+    {
+     "id": 8,
+      "nome": "Jango",
+      "data_nasc": "07/01/1980",
+      "cartao_sus": "03234567581",
+      "cidade": "Canela"
     }
   ],
   "solicitacoes": [
@@ -129,6 +136,15 @@
        "especialidade": "Ortopedia",
        "classificacao": 2,
        "status": "aberta"
+    },
+    {
+      "id": 8,
+      "paciente_id": 8,
+      "data_solicitação": "16/12¹2019"
+      "sintomas": "Febre alta, dores no corpo e no fundo dos olhos",
+      "especialidade": "Clinico Geral",
+      "classificacao": 3,
+      "status": "aberta"
     }
   ],
   "usuarios": [
